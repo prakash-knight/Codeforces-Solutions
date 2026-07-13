@@ -1,0 +1,21 @@
+*.bin
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs (CLion, IntelliJ, etc.)
+.idea/
+
+# Build directories
+build/
+cmake-build-*/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.cph
+*template.cpp
